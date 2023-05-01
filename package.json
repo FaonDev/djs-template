@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.5"
+  },
+  "name": "djs-template",
+  "version": "0.0.7",
+  "description": "A simple bot template for Discord.js v14.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "bot-template",
+    "discord-starter-kit"
+  ],
+  "author": "Faon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaonDev/djs-template/issues"
+  },
+  "homepage": "https://github.com/FaonDev/djs-template#readme"
+}
